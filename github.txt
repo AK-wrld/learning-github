@@ -1,0 +1,7 @@
+To set origin git remote
+1. push: to push my code
+2.fetch/pull :  to fetch other ppls code
+
+how to generate a pull req
+1. fork
+2. clone
